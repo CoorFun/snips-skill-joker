@@ -1,18 +1,10 @@
-# Generated Snips skill
+# snips-skill-joker
 
-This is a generated python2 snips skill using the `snips-template` tool.
-It is compatible with the format expected by the `snips-skill-server`
+Example:
 
-## Setup
+"Hey snips, please tell me a joke!"
+  "Sam can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time."
 
-This skill requires some python dependencies to work properly, these are
-listed in the `requirements.txt`. You can use the `setup.sh` script to
-create a python virtualenv that will be recognized by the skill server
-and install them in it.
+# Acknowledgements
 
-## Executables
-
-This dir contains a number of python executables named `action-*.py`.
-One such file is generated per intent supported. These are standalone
-executables and will perform a connection to MQTT and register on the
-given intent using the `hermes-python` helper lib.
+Thanks to [www.icndb.com](http://www.icndb.com/) provide a free API for getting a random joke. 
