@@ -1,7 +1,5 @@
 ## Usage
 
-### Example:
-
 ***```"Hey snips, please tell me a joke!"```***
 
 ***```"Sam can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time."```***
