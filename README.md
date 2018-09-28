@@ -1,4 +1,4 @@
-# snips-skill-joker
+## Usage
 
 Example:
 
@@ -6,6 +6,17 @@ Example:
 
 ```"Sam can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time."```
 
-# Acknowledgements
+## Installation
 
-Thanks to [www.icndb.com](http://www.icndb.com/) provide a free API for getting a random joke. 
+1. Create an English assistant in [Snips console](https://console.snips.ai/)
+2. Add APP ***Joke**
+3. Deploy assistant by [sam](https://snips.gitbook.io/documentation/console/deploy-your-assistant)
+4. Have fun ;-)
+
+## Acknowledgements
+
+> ***Thanks to [snips.ai](https://snips.ai/) for providing a free and local voice assistant technology.***
+
+> ***Thanks to [www.icndb.com](http://www.icndb.com/) for providing a free random joke API.***
+
+
