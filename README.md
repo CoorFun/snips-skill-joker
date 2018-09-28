@@ -10,7 +10,7 @@
 2. Create an English assistant in ***[Snips console](https://console.snips.ai/)***
 3. Add APP ***Joke***
 4. Deploy assistant by ***[Sam](https://snips.gitbook.io/documentation/console/deploy-your-assistant)***
-5. Have fun ;-)
+5. Have fun ***;-)***
 
 ## Acknowledgements
 
