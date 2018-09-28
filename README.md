@@ -1,15 +1,15 @@
 ## Usage
 
-Example:
+### Example:
 
-```"Hey snips, please tell me a joke!"```
+***```"Hey snips, please tell me a joke!"```***
 
-```"Sam can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time."```
+***```"Sam can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time."```***
 
 ## Installation
 
 1. Create an English assistant in [Snips console](https://console.snips.ai/)
-2. Add APP ***Joke**
+2. Add APP ***Joke***
 3. Deploy assistant by [sam](https://snips.gitbook.io/documentation/console/deploy-your-assistant)
 4. Have fun ;-)
 
